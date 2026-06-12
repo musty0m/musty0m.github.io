@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musty0m.github.io/mustapha-website/sitemap.xml
