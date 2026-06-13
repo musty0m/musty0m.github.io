@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us - Mustapha Web Services</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section>
+<h1>About Mustapha Web Services</h1>
+<p>
+Mustapha Web Services is a professional web design and digital solutions agency dedicated to helping businesses, organizations, and individuals establish a strong online presence.
+</p>
+<p>
+We specialize in website design, web development, cybersecurity awareness, SEO optimization, and digital branding solutions. Our mission is to deliver modern, responsive, and secure websites that help businesses grow online.
+</p>
+<h2>Our Mission</h2>
+<p>
+To provide affordable, professional, and innovative digital solutions that empower businesses and individuals across Nigeria and beyond.
+</p>
+<h2>Our Vision</h2>
+<p>
+To become one of the leading providers of web development and cybersecurity services in Africa.
+</p>
+<h2>Our Services</h2>
+<ul>
+<li>Business Website Design</li>
+<li>Portfolio Websites</li>
+<li>School Websites</li>
+<li>SEO Optimization</li>
+<li>Cybersecurity Solutions</li>
+<li>Website Maintenance</li>
+</ul>
+<p><a href="index.html">← Back to Home</a></p>
+</section>
+</body>
+</html>
